@@ -1,7 +1,7 @@
-# AccessGov AI  
+# AccessGov
 **AI-Powered Accessibility Auditor for Congress**  
 
-AccessGov AI is an open-source project designed to make Congressional documents and digital materials accessible to all Americans. By combining continuous monitoring, accessibility scanning, and AI-assisted remediation, AccessGov AI helps Congress meet Section 508 and Web Content Accessibility Guidelines (WCAG) standards — while ensuring that bills, reports, and hearings are usable for constituents with disabilities.  
+AccessGov is an open-source project designed to make Congressional documents and digital materials accessible to all Americans. By combining continuous monitoring, accessibility scanning, and AI-assisted remediation, AccessGov helps Congress conform to Section 508 and Web Content Accessibility Guidelines (WCAG) standards while ensuring that bills, reports, and hearings are usable for constituents with disabilities.  
 
 ---
 
