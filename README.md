@@ -66,7 +66,6 @@ cd accessgov
 ---
 
 ## References
-## 📚 References  
 
 [1] N. Overdorff, “Inaccessible PDFs Reduce Access to Government Services,” *Equidox*, May 13, 2025. [Online]. Available: https://equidox.co/blog/inaccessible-pdfs-reduce-access-to-government-services/ (accessed Sep. 15, 2025).  
 
